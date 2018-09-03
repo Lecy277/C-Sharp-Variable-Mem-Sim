@@ -1,6 +1,6 @@
 # C-Sharp-Variable-Mem-Sim
 
-The following c# code creates a Gui based variable memory simulator.  The free space displays how much memory is available to be used up to 1000 Mb. 
+The following c# code creates a GUI based variable memory simulator.  The free space displays how much memory is available to be used up to 1000 Mb. 
 
 ![capture](https://user-images.githubusercontent.com/35905246/44883775-4c453800-ac86-11e8-9357-42b354f3d290.PNG)
 
